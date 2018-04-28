@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QrCodeCamera</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+
+    <string-array name="authorizedList">
+
+        <item>deepak</item>
+        <item>Anurag</item>
+        <item>Nikhil</item>
+        <item>sai kiran</item>
+
+    </string-array>
+
+
+</resources>
